@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T10:38:31.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="s1FHxKDT1jp--yLFKyNO" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T13:41:39.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="GnlKXwTIawqSzL-UDRhF" version="14.6.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="745" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fgqhBBdPtX0vHnS2tmJB-1" value="FRONTEND&lt;br&gt;&lt;br&gt;HTML&lt;br&gt;CSS&lt;br&gt;JavaScript" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fgqhBBdPtX0vHnS2tmJB-1" value="FRONTEND&lt;br&gt;&amp;nbsp;DO WORDPRESS&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;HTML&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;CSS&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;JavaScript&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fgqhBBdPtX0vHnS2tmJB-2" value="BACKEND&lt;br&gt;&lt;br&gt;PHP&lt;br&gt;JavaScript" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="fgqhBBdPtX0vHnS2tmJB-2" value="BACKEND DO WORDPRESS&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;PHP&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;JavaScript&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fgqhBBdPtX0vHnS2tmJB-3" value="API&lt;br&gt;&lt;br&gt;LiveSwitch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fgqhBBdPtX0vHnS2tmJB-4" value="BASE DE DADOS&lt;br&gt;MySQL&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Clientes&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Professores&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Tabelas de funcionamento do Wordpress&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="200" height="140" as="geometry" />
+          <mxGeometry x="560" y="220" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fgqhBBdPtX0vHnS2tmJB-5" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;STORAGE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; DigitalOcean&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Partituras&lt;/li&gt;&lt;li&gt;Diagramas&lt;/li&gt;&lt;li&gt;Tablaturas&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="520" width="150" height="100" as="geometry" />
+          <mxGeometry x="610" y="480" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fgqhBBdPtX0vHnS2tmJB-7" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="fgqhBBdPtX0vHnS2tmJB-2" target="fgqhBBdPtX0vHnS2tmJB-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,7 +37,12 @@
             <mxPoint x="530" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fgqhBBdPtX0vHnS2tmJB-10" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="fgqhBBdPtX0vHnS2tmJB-3" target="fgqhBBdPtX0vHnS2tmJB-1">
+        <mxCell id="fgqhBBdPtX0vHnS2tmJB-13" value="Abre sessão" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fgqhBBdPtX0vHnS2tmJB-9">
+          <mxGeometry x="-0.3501" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fgqhBBdPtX0vHnS2tmJB-10" value="Gere sessão" style="endArrow=none;html=1;" edge="1" parent="1" source="fgqhBBdPtX0vHnS2tmJB-3" target="fgqhBBdPtX0vHnS2tmJB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="410" as="sourcePoint" />
             <mxPoint x="530" y="360" as="targetPoint" />
